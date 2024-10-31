@@ -1,3 +1,4 @@
 src/snake-rs/target/**
+src/cpp/raylib-cpp/**
 emsdk/
 raylib/
