@@ -1,0 +1,14 @@
+/home/lukas/Code/Projects/snake/src/snake-rs/target/release/deps/libclang_sys-0f64eff350baa46a.rmeta: /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/lib.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/support.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/link.rs /home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out/macros.rs /home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out/common.rs /home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out/dynamic.rs
+
+/home/lukas/Code/Projects/snake/src/snake-rs/target/release/deps/libclang_sys-0f64eff350baa46a.rlib: /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/lib.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/support.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/link.rs /home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out/macros.rs /home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out/common.rs /home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out/dynamic.rs
+
+/home/lukas/Code/Projects/snake/src/snake-rs/target/release/deps/clang_sys-0f64eff350baa46a.d: /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/lib.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/support.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/link.rs /home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out/macros.rs /home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out/common.rs /home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out/dynamic.rs
+
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/lib.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/support.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/link.rs:
+/home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out/macros.rs:
+/home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out/common.rs:
+/home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/home/lukas/Code/Projects/snake/src/snake-rs/target/release/build/clang-sys-32172ba2a1240126/out

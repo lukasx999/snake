@@ -1,0 +1,11 @@
+/home/lukas/Code/Projects/snake/src/snake-rs/target/debug/deps/liblinux_raw_sys-13ac16a1284c02bd.rmeta: /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/lib.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/elf.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/errno.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/general.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs
+
+/home/lukas/Code/Projects/snake/src/snake-rs/target/debug/deps/liblinux_raw_sys-13ac16a1284c02bd.rlib: /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/lib.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/elf.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/errno.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/general.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs
+
+/home/lukas/Code/Projects/snake/src/snake-rs/target/debug/deps/linux_raw_sys-13ac16a1284c02bd.d: /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/lib.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/elf.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/errno.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/general.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs
+
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/lib.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/elf.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/errno.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/general.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs:
