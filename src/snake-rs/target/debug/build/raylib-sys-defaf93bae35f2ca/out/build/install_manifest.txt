@@ -1,7 +1,0 @@
-/home/lukas/Code/Projects/snake/src/snake-rs/target/debug/build/raylib-sys-defaf93bae35f2ca/out/lib/libraylib.a
-/home/lukas/Code/Projects/snake/src/snake-rs/target/debug/build/raylib-sys-defaf93bae35f2ca/out/include/raylib.h
-/home/lukas/Code/Projects/snake/src/snake-rs/target/debug/build/raylib-sys-defaf93bae35f2ca/out/include/rlgl.h
-/home/lukas/Code/Projects/snake/src/snake-rs/target/debug/build/raylib-sys-defaf93bae35f2ca/out/include/raymath.h
-/home/lukas/Code/Projects/snake/src/snake-rs/target/debug/build/raylib-sys-defaf93bae35f2ca/out/lib/pkgconfig/raylib.pc
-/home/lukas/Code/Projects/snake/src/snake-rs/target/debug/build/raylib-sys-defaf93bae35f2ca/out/lib/cmake/raylib/raylib-config-version.cmake
-/home/lukas/Code/Projects/snake/src/snake-rs/target/debug/build/raylib-sys-defaf93bae35f2ca/out/lib/cmake/raylib/raylib-config.cmake
