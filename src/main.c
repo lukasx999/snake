@@ -151,6 +151,10 @@ int main(void) {
                 } break;
 
                 case GAME_OVER: {
+
+                    render_size_text(&game);
+                    render_snake(&game);
+
                     render_string("You Lose!", 100, BLUE, 50);
                     render_string("[Press <Space> to restart]", 100,
                                   RAYWHITE, SCREEN_HEIGHT/2);

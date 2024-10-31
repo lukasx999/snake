@@ -222,46 +222,6 @@ static void _fill_adjacent_elements(Drawable **neighbours, int x, int y, Drawabl
 }
 
 
-
-// static bool _snake_check_collision(Game *game) {
-//
-//     SnakeNode *head = game->snake_head;
-//
-//     Drawable *neighbours[4] = { 0 };
-//     _fill_adjacent_elements(neighbours, head->x, head->y, game->canvas);
-//
-//     for (size_t i = 0; i < 4; ++i) {
-//         switch (neighbours[i]->type) {
-//             case CELL_SNAKE: {
-//                 // the node immediately connected to the head of the snake
-//                 Drawable *next = &game->canvas[head->next->x][head->next->y];
-//
-//                 // this node is always connected, hence we should ignore it when checking for self collisions
-//                 if (neighbours[i] != next) {
-//                     return true;
-//                 }
-//
-//             } break;
-//             case CELL_APPLE: { // TODO: only check snake head, not all 4 directions
-//                 for (size_t _; _ < game->snake_growth_rate; ++_)
-//                     snake_grow(game);
-//                 _spawn_apple(game);
-//             } break;
-//             case CELL_BORDER: {
-//                 return true;
-//             } break;
-//             default: {} break;
-//
-//         }
-//
-//     }
-//
-//     return false;
-//
-// }
-
-
-
 static void _snake_wrapround(Game *game) {
 
     SnakeNode *current = game->snake_head;
